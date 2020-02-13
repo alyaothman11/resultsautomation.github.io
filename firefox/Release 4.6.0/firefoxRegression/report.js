@@ -98,7 +98,7 @@ formatter.result({
   "duration": 2530459000,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Test enabling AA privacy20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Test enabling AA privacy20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2699032400,
   "status": "passed"
@@ -211,7 +211,7 @@ formatter.result({
   "duration": 2362768400,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test disabling AA privacy20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test disabling AA privacy20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2699938500,
   "status": "passed"
@@ -324,7 +324,7 @@ formatter.result({
   "duration": 1683310900,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 Test disabling AA from General Page with privacy truned on20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 Test disabling AA from General Page with privacy truned on20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2434242400,
   "status": "passed"
@@ -437,7 +437,7 @@ formatter.result({
   "duration": 1907360400,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-4 Test disabling AA from Option Page with privacy truned on20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-4 Test disabling AA from Option Page with privacy truned on20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2557460900,
   "status": "passed"
@@ -548,7 +548,7 @@ formatter.result({
   "duration": 3526196700,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test show links20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test show links20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2768634800,
   "status": "passed"
@@ -699,7 +699,7 @@ formatter.result({
   "duration": 12895831300,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 Test disabled filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 Test disabled filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 3814935500,
   "status": "passed"
@@ -946,7 +946,7 @@ formatter.result({
   "duration": 2043960200,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 User blacklist a given ad by its CSS20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 User blacklist a given ad by its CSS20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2685950500,
   "status": "passed"
@@ -1095,7 +1095,7 @@ formatter.match({
 formatter.result({
   "status": "skipped"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 User blacklist by show ads everywhere except20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 User blacklist by show ads everywhere except20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2395962200,
   "status": "passed"
@@ -1187,7 +1187,7 @@ formatter.result({
   "error_message": "org.openqa.selenium.WebDriverException: Reached error page: about:neterror?e\u003ddnsNotFound\u0026u\u003dhttps%3A//www.iqshw.com/\u0026c\u003dUTF-8\u0026f\u003dregular\u0026d\u003dWe%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.iqshw.com.\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027LAPTOP-CKSGUD9K\u0027, ip: \u0027192.168.1.6\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_221\u0027\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 73.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200130174018, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 15376, moz:profile: C:\\Users\\alyao\\AppData\\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: efe09a10-1ad1-408f-b8ac-9fcdcac8517e\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)\r\n\tat com.betafish.stepdefn.BlacklistStepDefn.userBlackList(BlacklistStepDefn.java:62)\r\n\tat ✽.And user clicks on do not run ads on website(AdBlockBlacklist.feature:48)\r\n",
   "status": "failed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 Check the blacklist wizard looks right20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 Check the blacklist wizard looks right20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 1885304000,
   "status": "passed"
@@ -1258,7 +1258,7 @@ formatter.result({
   "duration": 4631797000,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Test Data collection is empty when user does not have it turned on20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Test Data collection is empty when user does not have it turned on20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2429344600,
   "status": "passed"
@@ -1345,7 +1345,7 @@ formatter.result({
   "duration": 5038705200,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test Data collection is  working when user  have it turned on20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test Data collection is  working when user  have it turned on20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 3456724600,
   "status": "passed"
@@ -1444,7 +1444,7 @@ formatter.result({
   "duration": 65743400,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 User gets an error when trying to use rewrite filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 User gets an error when trying to use rewrite filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2502117000,
   "status": "passed"
@@ -1535,7 +1535,7 @@ formatter.result({
   "duration": 58049500,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2627196800,
   "status": "passed"
@@ -1616,7 +1616,7 @@ formatter.result({
   "duration": 52203300,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2400128600,
   "status": "passed"
@@ -1697,7 +1697,7 @@ formatter.result({
   "duration": 49336200,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-4 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-4 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2295124600,
   "status": "passed"
@@ -1778,7 +1778,7 @@ formatter.result({
   "duration": 52014100,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-5 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-5 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2399544700,
   "status": "passed"
@@ -1859,7 +1859,7 @@ formatter.result({
   "duration": 52537100,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-6 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-6 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2346762900,
   "status": "passed"
@@ -1940,7 +1940,7 @@ formatter.result({
   "duration": 75282400,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-7 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-7 User gets an error when adding incorrect filter20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2403908100,
   "status": "passed"
@@ -2091,7 +2091,7 @@ formatter.result({
   "duration": 8376244400,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 User pause AdBlock on a particular website from pop-up20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 User pause AdBlock on a particular website from pop-up20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2601154400,
   "status": "passed"
@@ -2220,7 +2220,7 @@ formatter.result({
   "duration": 8236876700,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 User pause AdBlock on a particular website from context menu20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 User pause AdBlock on a particular website from context menu20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2663558000,
   "status": "passed"
@@ -2343,7 +2343,7 @@ formatter.result({
   "duration": 74247375600,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 User pause AdBlock on a all sites from pop-up20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 User pause AdBlock on a all sites from pop-up20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 4537556600,
   "status": "passed"
@@ -2466,7 +2466,7 @@ formatter.result({
   "duration": 76989872700,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-4 User pause AdBlock on a all sites from context menu20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-4 User pause AdBlock on a all sites from context menu20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 3514505700,
   "status": "passed"
@@ -2545,7 +2545,7 @@ formatter.result({
   "duration": 8442011000,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-5 User resume Adblock from pop-up menu20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-5 User resume Adblock from pop-up menu20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2624585000,
   "status": "passed"
@@ -2622,7 +2622,7 @@ formatter.match({
 formatter.result({
   "status": "skipped"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-6 User resume Adblock from context menu20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-6 User resume Adblock from context menu20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2894009800,
   "status": "passed"
@@ -2707,7 +2707,7 @@ formatter.result({
   "duration": 30687120700,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Test default themes are applied for fresh install20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Test default themes are applied for fresh install20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2309003400,
   "status": "passed"
@@ -2904,7 +2904,7 @@ formatter.match({
 formatter.result({
   "status": "skipped"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test all themes for popup and applying them20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test all themes for popup and applying them20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2580476600,
   "status": "passed"
@@ -3038,7 +3038,7 @@ formatter.result({
   "error_message": "java.lang.AssertionError: The general page theme page is not correct\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.assertTrue(Assert.java:41)\r\n\tat com.betafish.stepdefn.ThemesStepDefn.applyTheme(ThemesStepDefn.java:168)\r\n\tat ✽.And user apply theme(AdBlockThemes.feature:47)\r\n",
   "status": "failed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test all option page theme20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test all option page theme20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2355999000,
   "status": "passed"
@@ -3210,7 +3210,7 @@ formatter.match({
 formatter.result({
   "status": "skipped"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 User whitelist a given site from pop-up and then remove it20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 User whitelist a given site from pop-up and then remove it20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2342621800,
   "status": "passed"
@@ -3355,7 +3355,7 @@ formatter.result({
   "duration": 12934509100,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 User whitelist AdBlock on a particular website from customize page20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 User whitelist AdBlock on a particular website from customize page20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 3347260000,
   "status": "passed"
@@ -3486,7 +3486,7 @@ formatter.result({
   "duration": 11873379400,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 User whitelist AdBlock on a particular website adding it to manually edit filters20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 User whitelist AdBlock on a particular website adding it to manually edit filters20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 3824417100,
   "status": "passed"
@@ -3577,7 +3577,7 @@ formatter.result({
   "duration": 318209878300,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-4 Check the wizard looks right20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-4 Check the wizard looks right20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2839237300,
   "status": "passed"
@@ -3718,7 +3718,7 @@ formatter.result({
   "duration": 5135405800,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 User disable and enable AdBlock count on icon20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 User disable and enable AdBlock count on icon20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2530799700,
   "status": "passed"
@@ -3823,7 +3823,7 @@ formatter.result({
   "duration": 7341576500,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 User disable and enable AdBlock count on popup20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 User disable and enable AdBlock count on popup20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2988315100,
   "status": "passed"
@@ -3952,7 +3952,7 @@ formatter.result({
   "duration": 59665259400,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Check all links in support tab20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Check all links in support tab20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2334281900,
   "status": "passed"
@@ -4017,7 +4017,7 @@ formatter.match({
 formatter.result({
   "status": "skipped"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Check that user can submit a bug report20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Check that user can submit a bug report20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 3161779300,
   "status": "passed"
@@ -4100,7 +4100,7 @@ formatter.result({
   "duration": 5557572800,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 User install AdBlock and default subscription are correct20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 User install AdBlock and default subscription are correct20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2559892300,
   "status": "passed"
@@ -4197,7 +4197,7 @@ formatter.result({
   "duration": 26317265800,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Check all links in installed page20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Check all links in installed page20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 3485493800,
   "status": "passed"
@@ -4308,7 +4308,7 @@ formatter.result({
   "duration": 1797450800,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Check the test page for adblock functionality20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Check the test page for adblock functionality20200213.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.after({
   "duration": 2680195700,
   "status": "passed"
