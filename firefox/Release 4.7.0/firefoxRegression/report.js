@@ -17,7 +17,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 40694949800,
+  "duration": 24661383000,
   "status": "passed"
 });
 formatter.scenario({
@@ -81,31 +81,31 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 19239671400,
+  "duration": 19514281899,
   "status": "passed"
 });
 formatter.match({
   "location": "AAPrivacyStepDefn.enableAAPrivacy(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 640145400,
+  "duration": 274624701,
   "status": "passed"
 });
 formatter.match({
   "location": "AAPrivacyStepDefn.isAAPrivacyEnabledGeneral(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1597953900,
+  "duration": 1411609900,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Test enabling AA privacyfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Test enabling AA privacyfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.embedding("image/png", "embedded0.png");
 formatter.after({
-  "duration": 4734488500,
+  "duration": 5721389800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 33510428500,
+  "duration": 21378140000,
   "status": "passed"
 });
 formatter.scenario({
@@ -188,39 +188,40 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18097349600,
+  "duration": 19090920099,
   "status": "passed"
 });
 formatter.match({
   "location": "AAPrivacyStepDefn.enableAAPrivacy(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 752644100,
+  "duration": 402133600,
   "status": "passed"
 });
 formatter.match({
   "location": "AAPrivacyStepDefn.disableAAPrivacy(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 801976000,
+  "duration": 269991299,
   "status": "passed"
 });
 formatter.match({
   "location": "AAPrivacyStepDefn.isAAPrivacyDisableGeneral(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1521335000,
+  "duration": 1123522800,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test disabling AA privacyfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test disabling AA privacyfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
 formatter.embedding("image/png", "embedded1.png");
 formatter.after({
-  "duration": 4696967100,
+  "duration": 4728975400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 33784736900,
-  "status": "passed"
+  "duration": 15114269400,
+  "error_message": "org.openqa.selenium.WebDriverException: permission denied\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027LAPTOP-CKSGUD9K\u0027, ip: \u0027192.168.1.7\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_221\u0027\nDriver info: driver.version: FirefoxDriver\nremote stacktrace: \r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)\r\n\tat org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)\r\n\tat org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)\r\n\tat java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)\r\n\tat java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)\r\n\tat java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)\r\n\tat java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:499)\r\n\tat java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:486)\r\n\tat java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)\r\n\tat java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)\r\n\tat java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\r\n\tat java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)\r\n\tat org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)\r\n\tat org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.\u003cinit\u003e(RemoteWebDriver.java:131)\r\n\tat org.openqa.selenium.firefox.FirefoxDriver.\u003cinit\u003e(FirefoxDriver.java:147)\r\n\tat com.betafish.stepdefn.Hooks.setUp(Hooks.java:230)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runBeforeHooks(Runtime.java:202)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:40)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "line": 30,
@@ -302,38 +303,33 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18130578400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "AAPrivacyStepDefn.enableAAPrivacy(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 773252400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "AAPrivacyStepDefn.disableAA(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 3005674500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "AAPrivacyStepDefn.isAAPrivacyDisableGeneral(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1152287600,
-  "status": "passed"
+  "status": "skipped"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 Test disabling AA from General Page with privacy truned onfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded2.png");
 formatter.after({
-  "duration": 4779712500,
-  "status": "passed"
+  "duration": 2470201,
+  "error_message": "org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027LAPTOP-CKSGUD9K\u0027, ip: \u0027192.168.1.7\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_221\u0027\nDriver info: driver.version: RemoteWebDriver\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)\r\n\tat com.betafish.stepdefn.Hooks.getConsoleLogs(Hooks.java:386)\r\n\tat com.betafish.stepdefn.Hooks.killBrowser(Hooks.java:333)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)\r\n",
+  "status": "failed"
 });
 formatter.before({
-  "duration": 35771549700,
+  "duration": 24084640401,
   "status": "passed"
 });
 formatter.scenario({
@@ -416,34 +412,34 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18175638900,
+  "duration": 19473236299,
   "status": "passed"
 });
 formatter.match({
   "location": "AAPrivacyStepDefn.enableAAPrivacy(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 636281800,
+  "duration": 732863800,
   "status": "passed"
 });
 formatter.match({
   "location": "AAPrivacyStepDefn.disableAA(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 2741505800,
+  "duration": 3348011500,
   "status": "passed"
 });
 formatter.match({
   "location": "AAPrivacyStepDefn.isAAPrivacyDisableGeneral(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1287819000,
+  "duration": 1285510899,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-4 Test disabling AA from Option Page with privacy truned onfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded3.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-4 Test disabling AA from Option Page with privacy truned onfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded2.png");
 formatter.after({
-  "duration": 5237570900,
+  "duration": 4468160299,
   "status": "passed"
 });
 formatter.uri("AdBlockAdvanceUser.feature");
@@ -461,7 +457,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 32633084800,
+  "duration": 21668088400,
   "status": "passed"
 });
 formatter.scenario({
@@ -521,45 +517,45 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18109602800,
+  "duration": 18291018399,
   "status": "passed"
 });
 formatter.match({
   "location": "AdvanceUserStepDefn.enableAdvanceUser()"
 });
 formatter.result({
-  "duration": 1146858000,
+  "duration": 1150639601,
   "status": "passed"
 });
 formatter.match({
   "location": "SubscribeStepDefn.userCustomFilter(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 3843331400,
+  "duration": 3262316499,
   "status": "passed"
 });
 formatter.match({
   "location": "AdvanceUserStepDefn.userClickOnShowLinks()"
 });
 formatter.result({
-  "duration": 1735784200,
+  "duration": 1649783601,
   "status": "passed"
 });
 formatter.match({
   "location": "AdvanceUserStepDefn.linksDisplayed()"
 });
 formatter.result({
-  "duration": 3256912400,
+  "duration": 3283960799,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test show linksfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded4.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test show linksfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded3.png");
 formatter.after({
-  "duration": 4669310500,
+  "duration": 4823204200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30176749000,
+  "duration": 22484008801,
   "status": "passed"
 });
 formatter.scenario({
@@ -666,48 +662,48 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18193882500,
+  "duration": 18222325300,
   "status": "passed"
 });
 formatter.match({
   "location": "AdvanceUserStepDefn.enableAdvanceUser()"
 });
 formatter.result({
-  "duration": 1147219600,
+  "duration": 1140831000,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.whitelistFromManuallyEditFilter(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 18695154300,
+  "duration": 31826431599,
   "status": "passed"
 });
 formatter.match({
   "location": "AdvanceUserStepDefn.addDisabled(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 8088726800,
+  "duration": 8193102400,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userNavigatestoWebsite(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1820871200,
+  "duration": 2002840200,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.isnotAdBlockDisabledwithFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 8316437600,
+  "duration": 8419871000,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 Test disabled filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded5.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 Test disabled filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded4.png");
 formatter.after({
-  "duration": 5233023200,
+  "duration": 5104334800,
   "status": "passed"
 });
 formatter.uri("AdBlockBlacklist.feature");
@@ -729,7 +725,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 30119587800,
+  "duration": 22361215801,
   "status": "passed"
 });
 formatter.scenario({
@@ -893,73 +889,73 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18239623400,
+  "duration": 18421894800,
   "status": "passed"
 });
 formatter.match({
   "location": "BlacklistStepDefn.userBlaclistByCSS(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 9175765600,
+  "duration": 9200777500,
   "status": "passed"
 });
 formatter.match({
   "location": "BlacklistStepDefn.adNotDispalyed(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 4716365300,
+  "duration": 3600399199,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userRefershPage()"
 });
 formatter.result({
-  "duration": 3213686400,
+  "duration": 2607079600,
   "status": "passed"
 });
 formatter.match({
   "location": "BlacklistStepDefn.adNotDispalyed(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 795947100,
+  "duration": 1086869001,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.userPauseOnSiteFromPopup(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 5111900100,
+  "duration": 4955295401,
   "status": "passed"
 });
 formatter.match({
   "location": "BlacklistStepDefn.adisDispalyed(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1404448200,
+  "duration": 1009431700,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.resumeAdblockingFromPopup()"
 });
 formatter.result({
-  "duration": 10903729800,
+  "duration": 10883279100,
   "status": "passed"
 });
 formatter.match({
   "location": "BlacklistStepDefn.adNotDispalyed(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 4060325900,
+  "duration": 691792200,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 User blacklist a given ad by its CSSfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded6.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 User blacklist a given ad by its CSSfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded5.png");
 formatter.after({
-  "duration": 4721565900,
+  "duration": 5057470600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30093970100,
+  "duration": 21359603101,
   "status": "passed"
 });
 formatter.scenario({
@@ -1066,52 +1062,52 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18300874200,
+  "duration": 18436421399,
   "status": "passed"
 });
 formatter.match({
   "location": "BlacklistStepDefn.userBlaclistByDomain(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 10921536800,
+  "duration": 12967297500,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.isAdBlockDisabledwithFiltersAdded(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 11649234100,
+  "duration": 11662621400,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.isAdBlockDisabled(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 42152209700,
+  "duration": 41689202399,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.resumeAdblockingFromPopup()"
 });
 formatter.result({
-  "duration": 10720789200,
+  "duration": 10751376200,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.isAdBlockDisabledwithFiltersAdded(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 11663271900,
+  "duration": 11741759899,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 User blacklist by show ads everywhere exceptfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded7.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 User blacklist by show ads everywhere exceptfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded6.png");
 formatter.after({
-  "duration": 5397571700,
+  "duration": 5751570600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30089436000,
+  "duration": 21680362901,
   "status": "passed"
 });
 formatter.scenario({
@@ -1186,20 +1182,20 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18144189800,
+  "duration": 18185111901,
   "status": "passed"
 });
 formatter.match({
   "location": "BlacklistStepDefn.userBlackList(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 78045638100,
+  "duration": 80250178701,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 Check the blacklist wizard looks rightfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded8.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 Check the blacklist wizard looks rightfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded7.png");
 formatter.after({
-  "duration": 6326601800,
+  "duration": 6731296899,
   "status": "passed"
 });
 formatter.uri("AdBlockDataCollection.feature");
@@ -1221,7 +1217,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 30268723400,
+  "duration": 22639683100,
   "status": "passed"
 });
 formatter.scenario({
@@ -1251,32 +1247,31 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18102246700,
+  "duration": 18363970101,
   "status": "passed"
 });
 formatter.match({
   "location": "DataCollectionStepDefn.sendDCObject()"
 });
 formatter.result({
-  "duration": 16585883100,
+  "duration": 17465130500,
   "status": "passed"
 });
 formatter.match({
   "location": "DataCollectionStepDefn.isEmptyDC()"
 });
 formatter.result({
-  "duration": 7015148600,
-  "error_message": "java.lang.AssertionError: The Data collection object is not empty\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.assertTrue(Assert.java:41)\r\n\tat com.betafish.stepdefn.DataCollectionStepDefn.isEmptyDC(DataCollectionStepDefn.java:46)\r\n\tat ✽.Then object is empty(AdBlockDataCollection.feature:8)\r\n",
-  "status": "failed"
+  "duration": 3970011600,
+  "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Test Data collection is empty when user does not have it turned onfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded9.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Test Data collection is empty when user does not have it turned onfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded8.png");
 formatter.after({
-  "duration": 4802298900,
+  "duration": 4915793700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30648234000,
+  "duration": 22668060301,
   "status": "passed"
 });
 formatter.scenario({
@@ -1326,42 +1321,41 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18111666900,
+  "duration": 18282991600,
   "status": "passed"
 });
 formatter.match({
   "location": "DataCollectionStepDefn.enableDC()"
 });
 formatter.result({
-  "duration": 219416100,
+  "duration": 217576201,
   "status": "passed"
 });
 formatter.match({
   "location": "DataCollectionStepDefn.navigateToSomeWebsites()"
 });
 formatter.result({
-  "duration": 5170540600,
+  "duration": 6981789000,
   "status": "passed"
 });
 formatter.match({
   "location": "DataCollectionStepDefn.sendDCObject()"
 });
 formatter.result({
-  "duration": 15100734600,
+  "duration": 16162497900,
   "status": "passed"
 });
 formatter.match({
   "location": "DataCollectionStepDefn.isNotEmptyDC()"
 });
 formatter.result({
-  "duration": 6601262000,
-  "error_message": "java.lang.AssertionError: The Data collection object is not empty\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.assertTrue(Assert.java:41)\r\n\tat com.betafish.stepdefn.DataCollectionStepDefn.isNotEmptyDC(DataCollectionStepDefn.java:72)\r\n\tat ✽.Then object is not empty(AdBlockDataCollection.feature:18)\r\n",
-  "status": "failed"
+  "duration": 4070594400,
+  "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test Data collection is  working when user  have it turned onfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded10.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test Data collection is  working when user  have it turned onfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded9.png");
 formatter.after({
-  "duration": 5266678000,
+  "duration": 5295515200,
   "status": "passed"
 });
 formatter.uri("AdBlockFeedback.feature");
@@ -1379,15 +1373,11 @@ formatter.feature({
     {
       "line": 2,
       "name": "@RegressionFirefox"
-    },
-    {
-      "line": 3,
-      "name": "@RunThis"
     }
   ]
 });
 formatter.before({
-  "duration": 30433121900,
+  "duration": 21314810500,
   "status": "passed"
 });
 formatter.scenario({
@@ -1431,31 +1421,31 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18119926400,
+  "duration": 18300951100,
   "status": "passed"
 });
 formatter.match({
   "location": "FeedbackStepDefn.userClickFeedback()"
 });
 formatter.result({
-  "duration": 4480123900,
+  "duration": 4449947000,
   "status": "passed"
 });
 formatter.match({
   "location": "FeedbackStepDefn.correctLink(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 2983700,
+  "duration": 3336099,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Test Feedback URL with user not upgraded to Permiumfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded11.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Test Feedback URL with user not upgraded to Permiumfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded10.png");
 formatter.after({
-  "duration": 4631272200,
+  "duration": 4784709100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30043393000,
+  "duration": 21824118000,
   "status": "passed"
 });
 formatter.scenario({
@@ -1504,34 +1494,34 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18164230400,
+  "duration": 18912837200,
   "status": "passed"
 });
 formatter.match({
   "location": "PingDataStepDefn.enableMAB()"
 });
 formatter.result({
-  "duration": 54447187800,
+  "duration": 54365527000,
   "status": "passed"
 });
 formatter.match({
   "location": "FeedbackStepDefn.userClickFeedback()"
 });
 formatter.result({
-  "duration": 4474729400,
+  "duration": 4452984199,
   "status": "passed"
 });
 formatter.match({
   "location": "FeedbackStepDefn.correctLink(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 4042900,
+  "duration": 3006500,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test Feedback URL with user IS upgraded to Permiumfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded12.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test Feedback URL with user IS upgraded to Permiumfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded11.png");
 formatter.after({
-  "duration": 5132119800,
+  "duration": 4666287301,
   "status": "passed"
 });
 formatter.uri("AdBlockImageSwap.feature");
@@ -1557,7 +1547,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 30287456200,
+  "duration": 21595144399,
   "status": "passed"
 });
 formatter.scenario({
@@ -1621,59 +1611,59 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18222563300,
+  "duration": 18276690501,
   "status": "passed"
 });
 formatter.match({
   "location": "PingDataStepDefn.enableMAB()"
 });
 formatter.result({
-  "duration": 54264392900,
+  "duration": 54203466401,
   "status": "passed"
 });
 formatter.match({
   "location": "ImageSwapStepDefn.themesApplied()"
 });
 formatter.result({
-  "duration": 4190253700,
+  "duration": 4194005999,
   "status": "passed"
 });
 formatter.match({
   "location": "ImageSwapStepDefn.noCTA(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 219641700,
+  "duration": 220252000,
   "status": "passed"
 });
 formatter.match({
   "location": "ImageSwapStepDefn.notselected()"
 });
 formatter.result({
-  "duration": 8108300,
+  "duration": 8921000,
   "status": "passed"
 });
 formatter.match({
   "location": "ImageSwapStepDefn.noSwap()"
 });
 formatter.result({
-  "duration": 222156700,
+  "duration": 219477501,
   "status": "passed"
 });
 formatter.match({
   "location": "ImageSwapStepDefn.noneSelected()"
 });
 formatter.result({
-  "duration": 7600500,
+  "duration": 8734299,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Test that deafult for image swap is none selectedfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded13.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Test that deafult for image swap is none selectedfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded12.png");
 formatter.after({
-  "duration": 4432897200,
+  "duration": 4354370201,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30085869300,
+  "duration": 21988174500,
   "status": "passed"
 });
 formatter.scenario({
@@ -1729,28 +1719,28 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18081017600,
+  "duration": 18301465300,
   "status": "passed"
 });
 formatter.match({
   "location": "PingDataStepDefn.enableMAB()"
 });
 formatter.result({
-  "duration": 54115153600,
+  "duration": 54183674800,
   "status": "passed"
 });
 formatter.match({
   "location": "ImageSwapStepDefn.imageSwap(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 5767819400,
+  "duration": 6498827600,
   "error_message": "java.lang.IndexOutOfBoundsException: Index: 0, Size: 0\r\n\tat java.util.ArrayList.rangeCheck(ArrayList.java:657)\r\n\tat java.util.ArrayList.get(ArrayList.java:433)\r\n\tat com.betafish.webdriver.TestPage.checkImageChannel(TestPage.java:311)\r\n\tat com.betafish.stepdefn.ImageSwapStepDefn.imageSwap(ImageSwapStepDefn.java:90)\r\n\tat ✽.When image swap behave correctly(AdBlockImageSwap.feature:21)\r\n",
   "status": "failed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test Image swap behaves correctlyfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded14.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test Image swap behaves correctlyfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded13.png");
 formatter.after({
-  "duration": 4511634800,
+  "duration": 4372605200,
   "status": "passed"
 });
 formatter.uri("AdBlockInMarketing.feature");
@@ -1776,7 +1766,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 30213122400,
+  "duration": 21741178200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1801,24 +1791,24 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18126934000,
+  "duration": 18201306900,
   "status": "passed"
 });
 formatter.match({
   "location": "InMarketingStepDefn.themesApplied()"
 });
 formatter.result({
-  "duration": 5522061100,
+  "duration": 5534918299,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Test CTA on all pagesfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded15.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Test CTA on all pagesfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded14.png");
 formatter.after({
-  "duration": 4508067700,
+  "duration": 4485070000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 29957853700,
+  "duration": 21498037899,
   "status": "passed"
 });
 formatter.scenario({
@@ -1858,45 +1848,45 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18095491100,
+  "duration": 18575270901,
   "status": "passed"
 });
 formatter.match({
   "location": "InMarketingStepDefn.openAdblock()"
 });
 formatter.result({
-  "duration": 2177260900,
+  "duration": 2173732001,
   "status": "passed"
 });
 formatter.match({
   "location": "InMarketingStepDefn.noCTA()"
 });
 formatter.result({
-  "duration": 1177618000,
+  "duration": 1175653801,
   "status": "passed"
 });
 formatter.match({
   "location": "InMarketingStepDefn.changeSetting()"
 });
 formatter.result({
-  "duration": 2251185800,
+  "duration": 2250183899,
   "status": "passed"
 });
 formatter.match({
   "location": "InMarketingStepDefn.themesApplied()"
 });
 formatter.result({
-  "duration": 5521337200,
+  "duration": 5552115400,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test user sees CTA on setting changefirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded16.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test user sees CTA on setting changefirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded15.png");
 formatter.after({
-  "duration": 4368861000,
+  "duration": 4348322500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30188822100,
+  "duration": 21477587900,
   "status": "passed"
 });
 formatter.scenario({
@@ -1936,45 +1926,45 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18121637900,
+  "duration": 18216644601,
   "status": "passed"
 });
 formatter.match({
   "location": "InMarketingStepDefn.closeSyncCTA()"
 });
 formatter.result({
-  "duration": 6337585900,
+  "duration": 6385474201,
   "status": "passed"
 });
 formatter.match({
   "location": "InMarketingStepDefn.noCTA()"
 });
 formatter.result({
-  "duration": 1360603400,
+  "duration": 1362717600,
   "status": "passed"
 });
 formatter.match({
   "location": "InMarketingStepDefn.changeSetting()"
 });
 formatter.result({
-  "duration": 2245910100,
+  "duration": 2242493000,
   "status": "passed"
 });
 formatter.match({
   "location": "InMarketingStepDefn.noCTA()"
 });
 formatter.result({
-  "duration": 1360511200,
+  "duration": 1372735400,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 Test user can dismiss CTA permanentlyfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded17.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 Test user can dismiss CTA permanentlyfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded16.png");
 formatter.after({
-  "duration": 4518532900,
+  "duration": 4524091400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30041619600,
+  "duration": 21430016500,
   "status": "passed"
 });
 formatter.scenario({
@@ -2004,32 +1994,32 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18156730700,
+  "duration": 18233322401,
   "status": "passed"
 });
 formatter.match({
   "location": "InMarketingStepDefn.dismissCTA()"
 });
 formatter.result({
-  "duration": 7457883400,
+  "duration": 6946819901,
   "status": "passed"
 });
 formatter.match({
   "location": "InMarketingStepDefn.goToOptionPage()"
 });
 formatter.result({
-  "duration": 25557063800,
+  "duration": 25672847101,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-4 Test Themes CTAfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded18.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-4 Test Themes CTAfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded17.png");
 formatter.after({
-  "duration": 4255971900,
+  "duration": 4478762300,
   "status": "passed"
 });
 formatter.uri("AdBlockManuallyEdit.feature");
 formatter.feature({
-  "line": 3,
+  "line": 4,
   "name": "Test Error Handling of manually editing filters",
   "description": "",
   "id": "test-error-handling-of-manually-editing-filters",
@@ -2042,15 +2032,19 @@ formatter.feature({
     {
       "line": 2,
       "name": "@RegressionFirefox"
+    },
+    {
+      "line": 3,
+      "name": "@RunThis"
     }
   ]
 });
 formatter.before({
-  "duration": 30183669100,
+  "duration": 21667227100,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 5,
+  "line": 6,
   "name": "Scenario-1 User gets an error when trying to use rewrite filter",
   "description": "",
   "id": "test-error-handling-of-manually-editing-filters;scenario-1-user-gets-an-error-when-trying-to-use-rewrite-filter",
@@ -2058,44 +2052,44 @@ formatter.scenario({
   "keyword": "Scenario"
 });
 formatter.step({
-  "line": 6,
+  "line": 7,
   "name": "user install AdBlock",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 7,
+  "line": 8,
   "name": "user add custom filters",
   "rows": [
     {
       "cells": [
         "FILTER"
       ],
-      "line": 8
+      "line": 9
     },
     {
       "cells": [
         "/(testpages\\.adblockplus\\.org\\/css\\/testpages\\.css)\\?14$/$rewrite\u003d$1?42"
       ],
-      "line": 9
+      "line": 10
     }
   ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 10,
+  "line": 11,
   "name": "user gets an error",
   "rows": [
     {
       "cells": [
         "ERROR"
       ],
-      "line": 11
+      "line": 12
     },
     {
       "cells": [
         "Invalid filter"
       ],
-      "line": 12
+      "line": 13
     }
   ],
   "keyword": "Then "
@@ -2104,45 +2098,45 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18104309200,
+  "duration": 18276014100,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.customFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 16790603300,
+  "duration": 16797719501,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.userGetErrorCustom(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 19780300,
+  "duration": 23231400,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 User gets an error when trying to use rewrite filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded19.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 User gets an error when trying to use rewrite filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded18.png");
 formatter.after({
-  "duration": 4564304400,
+  "duration": 4746481700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30205719500,
+  "duration": 23057839399,
   "status": "passed"
 });
 formatter.scenario({
   "comments": [
     {
-      "line": 13,
+      "line": 14,
       "value": "#Note: This check was removed by ABP and if we want it we need to add it on the"
     },
     {
-      "line": 14,
+      "line": 15,
       "value": "#UI"
     }
   ],
-  "line": 15,
+  "line": 16,
   "name": "Scenario-2 User gets an error when adding incorrect filter",
   "description": "",
   "id": "test-error-handling-of-manually-editing-filters;scenario-2-user-gets-an-error-when-adding-incorrect-filter",
@@ -2150,44 +2144,44 @@ formatter.scenario({
   "keyword": "Scenario"
 });
 formatter.step({
-  "line": 16,
+  "line": 17,
   "name": "user install AdBlock",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 17,
+  "line": 18,
   "name": "user add custom filters",
   "rows": [
     {
       "cells": [
         "FILTER"
       ],
-      "line": 18
+      "line": 19
     },
     {
       "cells": [
         "/foo/bar.html^$rewrite\u003dsjkdhfladsjhfasl"
       ],
-      "line": 19
+      "line": 20
     }
   ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 20,
+  "line": 21,
   "name": "user gets an error",
   "rows": [
     {
       "cells": [
         "ERROR"
       ],
-      "line": 22
+      "line": 23
     },
     {
       "cells": [
         "Invalid filter"
       ],
-      "line": 23
+      "line": 24
     }
   ],
   "keyword": "Then "
@@ -2196,35 +2190,35 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18153086500,
+  "duration": 18231394699,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.customFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 16763262000,
+  "duration": 16771783499,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.userGetErrorCustom(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 23748000,
+  "duration": 17268700,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded20.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded19.png");
 formatter.after({
-  "duration": 4586539400,
+  "duration": 4730881500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30191514500,
+  "duration": 22033425000,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 24,
+  "line": 25,
   "name": "Scenario-3 User gets an error when adding incorrect filter",
   "description": "",
   "id": "test-error-handling-of-manually-editing-filters;scenario-3-user-gets-an-error-when-adding-incorrect-filter",
@@ -2232,44 +2226,44 @@ formatter.scenario({
   "keyword": "Scenario"
 });
 formatter.step({
-  "line": 25,
+  "line": 26,
   "name": "user install AdBlock",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 26,
+  "line": 27,
   "name": "user add custom filters",
   "rows": [
     {
       "cells": [
         "FILTER"
       ],
-      "line": 27
+      "line": 28
     },
     {
       "cells": [
         "/foo/bar.html^$rewrite"
       ],
-      "line": 28
+      "line": 29
     }
   ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 29,
+  "line": 30,
   "name": "user gets an error",
   "rows": [
     {
       "cells": [
         "ERROR"
       ],
-      "line": 31
+      "line": 32
     },
     {
       "cells": [
         "Unknown filter option"
       ],
-      "line": 32
+      "line": 33
     }
   ],
   "keyword": "Then "
@@ -2278,35 +2272,35 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18600766400,
+  "duration": 18241338800,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.customFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 16749859000,
+  "duration": 16698075900,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.userGetErrorCustom(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 19076300,
+  "duration": 18821199,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded21.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded20.png");
 formatter.after({
-  "duration": 4593301000,
+  "duration": 4727018301,
   "status": "passed"
 });
 formatter.before({
-  "duration": 29991385300,
+  "duration": 21441531399,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 35,
+  "line": 36,
   "name": "Scenario-4 User gets an error when adding incorrect filter",
   "description": "",
   "id": "test-error-handling-of-manually-editing-filters;scenario-4-user-gets-an-error-when-adding-incorrect-filter",
@@ -2314,44 +2308,44 @@ formatter.scenario({
   "keyword": "Scenario"
 });
 formatter.step({
-  "line": 36,
+  "line": 37,
   "name": "user install AdBlock",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 37,
+  "line": 38,
   "name": "user add custom filters",
   "rows": [
     {
       "cells": [
         "FILTER"
       ],
-      "line": 38
+      "line": 39
     },
     {
       "cells": [
         "example.com^$csp"
       ],
-      "line": 39
+      "line": 40
     }
   ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 40,
+  "line": 41,
   "name": "user gets an error",
   "rows": [
     {
       "cells": [
         "ERROR"
       ],
-      "line": 42
+      "line": 43
     },
     {
       "cells": [
         "Invalid Content Security Policy"
       ],
-      "line": 43
+      "line": 44
     }
   ],
   "keyword": "Then "
@@ -2360,35 +2354,35 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 20574827100,
+  "duration": 18302342500,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.customFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 16769831900,
+  "duration": 16754516100,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.userGetErrorCustom(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 18732800,
+  "duration": 22949100,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-4 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded22.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-4 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded21.png");
 formatter.after({
-  "duration": 4522073100,
+  "duration": 4592019299,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30268241600,
+  "duration": 21451635601,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 46,
+  "line": 47,
   "name": "Scenario-5 User gets an error when adding incorrect filter",
   "description": "",
   "id": "test-error-handling-of-manually-editing-filters;scenario-5-user-gets-an-error-when-adding-incorrect-filter",
@@ -2396,44 +2390,44 @@ formatter.scenario({
   "keyword": "Scenario"
 });
 formatter.step({
-  "line": 47,
+  "line": 48,
   "name": "user install AdBlock",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 48,
+  "line": 49,
   "name": "user add custom filters",
   "rows": [
     {
       "cells": [
         "FILTER"
       ],
-      "line": 49
+      "line": 50
     },
     {
       "cells": [
         ",##selector"
       ],
-      "line": 50
+      "line": 51
     }
   ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 51,
+  "line": 52,
   "name": "user gets an error",
   "rows": [
     {
       "cells": [
         "ERROR"
       ],
-      "line": 53
+      "line": 54
     },
     {
       "cells": [
         "Invalid (or empty) domain specified"
       ],
-      "line": 54
+      "line": 55
     }
   ],
   "keyword": "Then "
@@ -2442,35 +2436,35 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18105832900,
+  "duration": 19289471300,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.customFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 16742007700,
+  "duration": 16779573800,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.userGetErrorCustom(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 18424900,
+  "duration": 21396100,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-5 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded23.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-5 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded22.png");
 formatter.after({
-  "duration": 4579345600,
+  "duration": 4673077400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30074404100,
+  "duration": 21440630000,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 56,
+  "line": 57,
   "name": "Scenario-6 User gets an error when adding incorrect filter",
   "description": "",
   "id": "test-error-handling-of-manually-editing-filters;scenario-6-user-gets-an-error-when-adding-incorrect-filter",
@@ -2478,44 +2472,44 @@ formatter.scenario({
   "keyword": "Scenario"
 });
 formatter.step({
-  "line": 57,
+  "line": 58,
   "name": "user install AdBlock",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 58,
+  "line": 59,
   "name": "user add custom filters",
   "rows": [
     {
       "cells": [
         "FILTER"
       ],
-      "line": 59
+      "line": 60
     },
     {
       "cells": [
         "t#?#div:-abp-properties(width: 213px)"
       ],
-      "line": 60
+      "line": 61
     }
   ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 61,
+  "line": 62,
   "name": "user gets an error",
   "rows": [
     {
       "cells": [
         "ERROR"
       ],
-      "line": 63
+      "line": 64
     },
     {
       "cells": [
         "No active domain specified for extended element hiding filter"
       ],
-      "line": 64
+      "line": 65
     }
   ],
   "keyword": "Then "
@@ -2524,35 +2518,35 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18097788300,
+  "duration": 18900638401,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.customFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 16746626400,
+  "duration": 16788391200,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.userGetErrorCustom(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 19128600,
+  "duration": 18389800,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-6 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded24.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-6 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded23.png");
 formatter.after({
-  "duration": 4574682300,
+  "duration": 4725800399,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30085325800,
+  "duration": 21470244100,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 66,
+  "line": 67,
   "name": "Scenario-7 User gets an error when adding incorrect filter",
   "description": "",
   "id": "test-error-handling-of-manually-editing-filters;scenario-7-user-gets-an-error-when-adding-incorrect-filter",
@@ -2560,44 +2554,44 @@ formatter.scenario({
   "keyword": "Scenario"
 });
 formatter.step({
-  "line": 67,
+  "line": 68,
   "name": "user install AdBlock",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 68,
+  "line": 69,
   "name": "user add custom filters",
   "rows": [
     {
       "cells": [
         "FILTER"
       ],
-      "line": 69
+      "line": 70
     },
     {
       "cells": [
         "t#$#log foo"
       ],
-      "line": 70
+      "line": 71
     }
   ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 71,
+  "line": 72,
   "name": "user gets an error",
   "rows": [
     {
       "cells": [
         "ERROR"
       ],
-      "line": 73
+      "line": 74
     },
     {
       "cells": [
         "No active domain specified for snippet filter"
       ],
-      "line": 74
+      "line": 75
     }
   ],
   "keyword": "Then "
@@ -2606,27 +2600,27 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18086405200,
+  "duration": 18415355200,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.customFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 16787292300,
+  "duration": 16744921101,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.userGetErrorCustom(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 21138000,
+  "duration": 22423999,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-7 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded25.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-7 User gets an error when adding incorrect filterfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded24.png");
 formatter.after({
-  "duration": 4613604500,
+  "duration": 4655281000,
   "status": "passed"
 });
 formatter.uri("AdBlockPause.feature");
@@ -2648,7 +2642,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 30150965800,
+  "duration": 21514086600,
   "status": "passed"
 });
 formatter.scenario({
@@ -2726,59 +2720,59 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18111097600,
+  "duration": 18246445100,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userPauseOnSiteFromPopup(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 9912179000,
+  "duration": 10376606199,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.isAdBlockPaused()"
 });
 formatter.result({
-  "duration": 24029901300,
+  "duration": 24888778000,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userRefershPage()"
 });
 formatter.result({
-  "duration": 1962746600,
+  "duration": 2626708300,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.isAdBlockPaused()"
 });
 formatter.result({
-  "duration": 24219092900,
+  "duration": 24179045600,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userNavigatesAwayAndBack(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 6778601600,
+  "duration": 6668012701,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.isNotAdBlockPaused()"
 });
 formatter.result({
-  "duration": 7286571700,
+  "duration": 7324698200,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 User pause AdBlock on a particular website from pop-upfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded26.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 User pause AdBlock on a particular website from pop-upfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded25.png");
 formatter.after({
-  "duration": 4613660200,
+  "duration": 4464975399,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30240065600,
+  "duration": 21573480900,
   "status": "passed"
 });
 formatter.scenario({
@@ -2856,59 +2850,59 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18082828300,
+  "duration": 18589057501,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userPauseOnSiteFromContext(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 6869834100,
+  "duration": 7489584300,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.isAdBlockPaused()"
 });
 formatter.result({
-  "duration": 23810835400,
+  "duration": 23962000301,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userRefershPage()"
 });
 formatter.result({
-  "duration": 1898088900,
+  "duration": 3571336301,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.isAdBlockPaused()"
 });
 formatter.result({
-  "duration": 25068127000,
+  "duration": 24696902100,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userNavigatesAwayAndBack(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 7313846000,
+  "duration": 6985623599,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.isNotAdBlockPaused()"
 });
 formatter.result({
-  "duration": 7282997000,
+  "duration": 7350345999,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 User pause AdBlock on a particular website from context menufirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded27.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 User pause AdBlock on a particular website from context menufirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded26.png");
 formatter.after({
-  "duration": 4583390800,
+  "duration": 4332393600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30316560400,
+  "duration": 21398096999,
   "status": "passed"
 });
 formatter.scenario({
@@ -2987,52 +2981,52 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18105957300,
+  "duration": 18293563000,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userPauseAllSiteFromPopup(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 3652855100,
+  "duration": 3476819400,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.isAdBlockPaused()"
 });
 formatter.result({
-  "duration": 26284719200,
+  "duration": 25096698800,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userRefershPage()"
 });
 formatter.result({
-  "duration": 2590552800,
+  "duration": 4290392399,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.isAdBlockPaused()"
 });
 formatter.result({
-  "duration": 24783732300,
+  "duration": 23774566199,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.AdBlockPausedOnAll(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 68925641300,
+  "duration": 69627227300,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 User pause AdBlock on a all sites from pop-upfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded28.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 User pause AdBlock on a all sites from pop-upfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded27.png");
 formatter.after({
-  "duration": 4657306500,
+  "duration": 5476562100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30584825200,
+  "duration": 21592436701,
   "status": "passed"
 });
 formatter.scenario({
@@ -3111,52 +3105,50 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18141179000,
+  "duration": 18591837599,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userPauseAllSiteFromContextMenu(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 4754650600,
+  "duration": 5072203501,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.isAdBlockPaused()"
 });
 formatter.result({
-  "duration": 28866347300,
-  "status": "passed"
+  "duration": 9422407201,
+  "error_message": "java.lang.AssertionError: AdBlock is not paused in popup\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.assertTrue(Assert.java:41)\r\n\tat com.betafish.stepdefn.PauseStepDefn.isAdBlockPaused(PauseStepDefn.java:74)\r\n\tat ✽.Then adblock is paused(AdBlockPause.feature:51)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "PauseStepDefn.userRefershPage()"
 });
 formatter.result({
-  "duration": 3049372100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "PauseStepDefn.isAdBlockPaused()"
 });
 formatter.result({
-  "duration": 25718509200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "PauseStepDefn.AdBlockPausedOnAll(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 58262910400,
-  "status": "passed"
+  "status": "skipped"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-4 User pause AdBlock on a all sites from context menufirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded29.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-4 User pause AdBlock on a all sites from context menufirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded28.png");
 formatter.after({
-  "duration": 4937959400,
+  "duration": 4571568300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30284425000,
+  "duration": 21528086300,
   "status": "passed"
 });
 formatter.scenario({
@@ -3205,38 +3197,38 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18531646600,
+  "duration": 18141553800,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userPauseAllSiteFromContextMenu(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 3440973100,
+  "duration": 5006460500,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.resumePopup()"
 });
 formatter.result({
-  "duration": 3498287000,
+  "duration": 3619550100,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.isNotAdBlockPaused()"
 });
 formatter.result({
-  "duration": 7217062600,
+  "duration": 7343381501,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-5 User resume Adblock from pop-up menufirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded30.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-5 User resume Adblock from pop-up menufirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded29.png");
 formatter.after({
-  "duration": 4438313600,
+  "duration": 4424657800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30070431000,
+  "duration": 21672903200,
   "status": "passed"
 });
 formatter.scenario({
@@ -3285,34 +3277,34 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18305541700,
+  "duration": 18312256700,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userPauseOnSiteFromPopup(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 10950524900,
+  "duration": 10408114500,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.resumeContext()"
 });
 formatter.result({
-  "duration": 1913272500,
+  "duration": 1934030500,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.isNotAdBlockPaused()"
 });
 formatter.result({
-  "duration": 7458588500,
+  "duration": 7536709100,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-6 User resume Adblock from context menufirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded31.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-6 User resume Adblock from context menufirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded30.png");
 formatter.after({
-  "duration": 5068120100,
+  "duration": 5219297201,
   "status": "passed"
 });
 formatter.uri("AdBlockThemes.feature");
@@ -3334,7 +3326,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 30277384300,
+  "duration": 21611727100,
   "status": "passed"
 });
 formatter.scenario({
@@ -3385,24 +3377,24 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18096282100,
+  "duration": 18810866300,
   "status": "passed"
 });
 formatter.match({
   "location": "ThemesStepDefn.themesApplied(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 24722924800,
+  "duration": 26876646299,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Test default themes are applied for fresh installfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded32.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Test default themes are applied for fresh installfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded31.png");
 formatter.after({
-  "duration": 4440899700,
+  "duration": 4579517600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30219952800,
+  "duration": 22156734999,
   "status": "passed"
 });
 formatter.scenario({
@@ -3569,38 +3561,38 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18114741800,
+  "duration": 19097006200,
   "status": "passed"
 });
 formatter.match({
   "location": "PingDataStepDefn.enableMAB()"
 });
 formatter.result({
-  "duration": 54137397800,
+  "duration": 54218265099,
   "status": "passed"
 });
 formatter.match({
   "location": "ThemesStepDefn.displayTheme(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 37667254800,
+  "duration": 37659852999,
   "status": "passed"
 });
 formatter.match({
   "location": "ThemesStepDefn.applyTheme(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 122203129600,
+  "duration": 124093142800,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test all themes for popup and applying themfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded33.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test all themes for popup and applying themfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded32.png");
 formatter.after({
-  "duration": 3984454601,
+  "duration": 4059199999,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30446910900,
+  "duration": 21693386199,
   "status": "passed"
 });
 formatter.scenario({
@@ -3703,34 +3695,34 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18100384300,
+  "duration": 18123114499,
   "status": "passed"
 });
 formatter.match({
   "location": "PingDataStepDefn.enableMAB()"
 });
 formatter.result({
-  "duration": 54217561000,
+  "duration": 54151049300,
   "status": "passed"
 });
 formatter.match({
   "location": "ThemesStepDefn.displayTheme(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 16209131400,
+  "duration": 16278081300,
   "status": "passed"
 });
 formatter.match({
   "location": "ThemesStepDefn.applyTheme(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 87867904900,
+  "duration": 89684715800,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Test all option page themefirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded34.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Test all option page themefirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded33.png");
 formatter.after({
-  "duration": 4067410200,
+  "duration": 4108865700,
   "status": "passed"
 });
 formatter.uri("AdBlockWhitelist.feature");
@@ -3752,165 +3744,84 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 30217137500,
+  "duration": 21631269800,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 5,
-  "name": "Scenario-1 User whitelist a given site from pop-up and then remove it",
-  "description": "",
-  "id": "test-whitelisting-functionality-which-includes-don\u0027t-run-on-this-page,-don\u0027t-run-on-pages-on-this-site,-show-ads-on-a-webpage-or-a-domain,-manually-edit-your-filters;scenario-1-user-whitelist-a-given-site-from-pop-up-and-then-remove-it",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 6,
-  "name": "user install AdBlock",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 7,
-  "name": "user whitelist adblock on website from popup",
-  "rows": [
+  "comments": [
     {
-      "cells": [
-        "URL"
-      ],
-      "line": 8
+      "line": 5,
+      "value": "#Scenario: Scenario-1 User whitelist a given site from pop-up and then remove it"
     },
     {
-      "cells": [
-        "https://stackoverflow.com/"
-      ],
-      "line": 9
-    }
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "adblock is disabled and website added to manually edit your filter",
-  "rows": [
-    {
-      "cells": [
-        "FILTER"
-      ],
-      "line": 11
+      "line": 6,
+      "value": "#\tGiven user install AdBlock"
     },
     {
-      "cells": [
-        "@@|stackoverflow.com/|$document"
-      ],
-      "line": 12
-    }
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 15,
-  "name": "user navigates to website",
-  "rows": [
-    {
-      "cells": [
-        "URL"
-      ],
-      "line": 16
+      "line": 7,
+      "value": "#\tAnd user whitelist adblock on website from popup"
     },
     {
-      "cells": [
-        "https://stackoverflow.com/"
-      ],
-      "line": 17
-    }
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 18,
-  "name": "adblock is disabled",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "user navigates away from website and back",
-  "rows": [
-    {
-      "cells": [
-        "URL"
-      ],
-      "line": 20
+      "line": 8,
+      "value": "#\t\t|URL|"
     },
     {
-      "cells": [
-        "https://stackoverflow.com/"
-      ],
-      "line": 21
+      "line": 9,
+      "value": "#\t\t|https://stackoverflow.com/|"
+    },
+    {
+      "line": 10,
+      "value": "#\tThen adblock is disabled and website added to manually edit your filter"
+    },
+    {
+      "line": 11,
+      "value": "#\t\t|FILTER|"
+    },
+    {
+      "line": 12,
+      "value": "#\t\t|@@\\|stackoverflow.com/\\|$document|"
+    },
+    {
+      "line": 13,
+      "value": "#"
+    },
+    {
+      "line": 14,
+      "value": "#"
+    },
+    {
+      "line": 15,
+      "value": "#\tAnd user navigates to website"
+    },
+    {
+      "line": 16,
+      "value": "#\t\t|URL|"
+    },
+    {
+      "line": 17,
+      "value": "#\t\t|https://stackoverflow.com/|"
+    },
+    {
+      "line": 18,
+      "value": "#\tThen adblock is disabled"
+    },
+    {
+      "line": 19,
+      "value": "#\tAnd user navigates away from website and back"
+    },
+    {
+      "line": 20,
+      "value": "#\t\t|URL|"
+    },
+    {
+      "line": 21,
+      "value": "#\t\t|https://stackoverflow.com/|"
+    },
+    {
+      "line": 22,
+      "value": "#\tThen adblock is disabled"
     }
   ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 22,
-  "name": "adblock is disabled",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "InstalltionStepDefn.userInstallAdblock()"
-});
-formatter.result({
-  "duration": 18084585400,
-  "status": "passed"
-});
-formatter.match({
-  "location": "WhitelistStepDefn.userPauseOnSiteFromPopup(String,String\u003e\u003e)"
-});
-formatter.result({
-  "duration": 6183591301,
-  "status": "passed"
-});
-formatter.match({
-  "location": "WhitelistStepDefn.isAdBlockDisabledwithFilters(String,String\u003e\u003e)"
-});
-formatter.result({
-  "duration": 28396554899,
-  "error_message": "java.lang.AssertionError: The website was not addded to the filter list. We should got @@|stackoverflow.com/|$document but got @@||stackoverflow.com/^$document\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.assertTrue(Assert.java:41)\r\n\tat com.betafish.stepdefn.WhitelistStepDefn.isAdBlockDisabledwithFilters(WhitelistStepDefn.java:105)\r\n\tat ✽.Then adblock is disabled and website added to manually edit your filter(AdBlockWhitelist.feature:10)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "PauseStepDefn.userNavigatestoWebsite(String,String\u003e\u003e)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "WhitelistStepDefn.isAdBlockDisabled()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "PauseStepDefn.userNavigatesAwayAndBack(String,String\u003e\u003e)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "WhitelistStepDefn.isAdBlockDisabled()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 User whitelist a given site from pop-up and then remove itfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded35.png");
-formatter.after({
-  "duration": 4350529500,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 30334848800,
-  "status": "passed"
-});
-formatter.scenario({
   "line": 25,
   "name": "Scenario-2 User whitelist AdBlock on a particular website from customize page",
   "description": "",
@@ -4008,52 +3919,52 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18582882700,
+  "duration": 18117015400,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.whitelistFromShowAdsOnwebpage(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 13211812700,
+  "duration": 12012652300,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.isAdBlockDisabledwithFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 29261986400,
+  "duration": 28413919300,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.resumeAdblockingbyRemovingFilter()"
 });
 formatter.result({
-  "duration": 15368961800,
+  "duration": 15413308000,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userNavigatestoWebsite(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1698783100,
+  "duration": 1856361100,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.isnotAdBlockDisabledwithFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 8394097201,
+  "duration": 8345941299,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 User whitelist AdBlock on a particular website from customize pagefirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded36.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 User whitelist AdBlock on a particular website from customize pagefirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded34.png");
 formatter.after({
-  "duration": 5146825000,
+  "duration": 5915086301,
   "status": "passed"
 });
 formatter.before({
-  "duration": 31129491900,
+  "duration": 21708583900,
   "status": "passed"
 });
 formatter.scenario({
@@ -4140,52 +4051,52 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18157153901,
+  "duration": 18154980800,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.whitelistFromManuallyEditFilter(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 18801678800,
+  "duration": 18024513500,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.isAdBlockDisabled()"
 });
 formatter.result({
-  "duration": 14815573300,
+  "duration": 14878623500,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.resumeAdblockingFromPopup()"
 });
 formatter.result({
-  "duration": 10994366600,
+  "duration": 10998000199,
   "status": "passed"
 });
 formatter.match({
   "location": "PauseStepDefn.userNavigatestoWebsite(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1032583700,
+  "duration": 1309204700,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.isnotAdBlockDisabledwithFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 8314163200,
+  "duration": 8414010599,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 User whitelist AdBlock on a particular website adding it to manually edit filtersfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded37.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 User whitelist AdBlock on a particular website adding it to manually edit filtersfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded35.png");
 formatter.after({
-  "duration": 4908846400,
+  "duration": 5197874200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30380686599,
+  "duration": 21489191500,
   "status": "passed"
 });
 formatter.scenario({
@@ -4260,20 +4171,20 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18143815300,
+  "duration": 18104098600,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.userWhitelistAllPages(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 99495161800,
+  "duration": 90898578300,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-4 Check the wizard looks rightfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded38.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-4 Check the wizard looks rightfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded36.png");
 formatter.after({
-  "duration": 5623516200,
+  "duration": 6745290400,
   "status": "passed"
 });
 formatter.uri("AdBlockedCount.feature");
@@ -4295,7 +4206,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 30379945000,
+  "duration": 22915622300,
   "status": "passed"
 });
 formatter.scenario({
@@ -4388,38 +4299,38 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18088458300,
+  "duration": 18195736300,
   "status": "passed"
 });
 formatter.match({
   "location": "AdBlockStepDefn.userNotDisplayedwithCountButton(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 2453242301,
+  "duration": 2473067000,
   "status": "passed"
 });
 formatter.match({
   "location": "AdBlockStepDefn.enableAdBlockCountIcon()"
 });
 formatter.result({
-  "duration": 9525879900,
+  "duration": 9534081301,
   "status": "passed"
 });
 formatter.match({
   "location": "AdBlockStepDefn.userDisplayedwithCountButton(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 4675169600,
+  "duration": 4984569600,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 User disable and enable AdBlock count on iconfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded39.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 User disable and enable AdBlock count on iconfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded37.png");
 formatter.after({
-  "duration": 4602081499,
+  "duration": 4625786300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30226531700,
+  "duration": 22081113900,
   "status": "passed"
 });
 formatter.scenario({
@@ -4487,41 +4398,41 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18098027100,
+  "duration": 18089805800,
   "status": "passed"
 });
 formatter.match({
   "location": "AdBlockStepDefn.clickAdBlockCountPopup()"
 });
 formatter.result({
-  "duration": 7775368801,
+  "duration": 7751607000,
   "status": "passed"
 });
 formatter.match({
   "location": "AdBlockStepDefn.userNotDisplayedwithCountPopup(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 4334001200,
+  "duration": 4294870800,
   "status": "passed"
 });
 formatter.match({
   "location": "AdBlockStepDefn.enableAdBlockCountPopup()"
 });
 formatter.result({
-  "duration": 5991923199,
+  "duration": 5989976400,
   "status": "passed"
 });
 formatter.match({
   "location": "AdBlockStepDefn.userDisplayedwithCountPopup(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 5608266400,
+  "duration": 5535835399,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-3 User disable and enable AdBlock count on popupfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded40.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-3 User disable and enable AdBlock count on popupfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded38.png");
 formatter.after({
-  "duration": 4904155201,
+  "duration": 4998353799,
   "status": "passed"
 });
 formatter.uri("AdblockSupport.feature");
@@ -4543,7 +4454,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 30104547800,
+  "duration": 21492717900,
   "status": "passed"
 });
 formatter.scenario({
@@ -4631,31 +4542,31 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18157804700,
+  "duration": 18601966999,
   "status": "passed"
 });
 formatter.match({
   "location": "SupportStepDefn.navigateSupportTab()"
 });
 formatter.result({
-  "duration": 4139542699,
+  "duration": 4133395500,
   "status": "passed"
 });
 formatter.match({
   "location": "SupportStepDefn.userClicksonlinks(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 58155472800,
+  "duration": 58156455599,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Check all links in support tabfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded41.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Check all links in support tabfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded39.png");
 formatter.after({
-  "duration": 4529830901,
+  "duration": 4927374200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30243147999,
+  "duration": 21579325200,
   "status": "passed"
 });
 formatter.scenario({
@@ -4690,34 +4601,34 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18119932899,
+  "duration": 18149223900,
   "status": "passed"
 });
 formatter.match({
   "location": "SupportStepDefn.navigateSupportTab()"
 });
 formatter.result({
-  "duration": 4137273201,
+  "duration": 4130074300,
   "status": "passed"
 });
 formatter.match({
   "location": "SupportStepDefn.submitBugReport()"
 });
 formatter.result({
-  "duration": 14185519500,
+  "duration": 14460186200,
   "status": "passed"
 });
 formatter.match({
   "location": "SupportStepDefn.bugreportsubmit()"
 });
 formatter.result({
-  "duration": 24823799,
+  "duration": 26749900,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Check that user can submit a bug reportfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded42.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Check that user can submit a bug reportfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded40.png");
 formatter.after({
-  "duration": 4522694299,
+  "duration": 4542143400,
   "status": "passed"
 });
 formatter.uri("Installtion.feature");
@@ -4739,7 +4650,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 30016906200,
+  "duration": 21708094000,
   "status": "passed"
 });
 formatter.scenario({
@@ -4774,38 +4685,38 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblockCountOn()"
 });
 formatter.result({
-  "duration": 4063393900,
+  "duration": 4061668501,
   "status": "passed"
 });
 formatter.match({
   "location": "InstalltionStepDefn.userIDInjected()"
 });
 formatter.result({
-  "duration": 18376316700,
+  "duration": 18378354601,
   "status": "passed"
 });
 formatter.match({
   "location": "InstalltionStepDefn.isPopUpHasAllElements()"
 });
 formatter.result({
-  "duration": 46600,
+  "duration": 48801,
   "status": "passed"
 });
 formatter.match({
   "location": "InstalltionStepDefn.isUserSubscribedToCorrectFilters()"
 });
 formatter.result({
-  "duration": 5244633400,
+  "duration": 5255269300,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 User install AdBlock and default subscription are correctfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded43.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 User install AdBlock and default subscription are correctfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded41.png");
 formatter.after({
-  "duration": 4282589900,
+  "duration": 4483817199,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30050459100,
+  "duration": 21651002400,
   "status": "passed"
 });
 formatter.scenario({
@@ -4880,20 +4791,20 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblockCountOn()"
 });
 formatter.result({
-  "duration": 4064810300,
+  "duration": 4064992300,
   "status": "passed"
 });
 formatter.match({
   "location": "InstalltionStepDefn.userClicksonlinks(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 25579276600,
+  "duration": 26023138900,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-2 Check all links in installed pagefirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded44.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-2 Check all links in installed pagefirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded42.png");
 formatter.after({
-  "duration": 5074929200,
+  "duration": 5053190001,
   "status": "passed"
 });
 formatter.uri("TestPages.feature");
@@ -4911,7 +4822,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 30226172900,
+  "duration": 21535306899,
   "status": "passed"
 });
 formatter.scenario({
@@ -4978,34 +4889,34 @@ formatter.match({
   "location": "InstalltionStepDefn.userInstallAdblock()"
 });
 formatter.result({
-  "duration": 18140168400,
+  "duration": 18746307100,
   "status": "passed"
 });
 formatter.match({
   "location": "TestPageStepDefn.adblockTestPass()"
 });
 formatter.result({
-  "duration": 2155759400,
+  "duration": 2092117600,
   "status": "passed"
 });
 formatter.match({
   "location": "WhitelistStepDefn.customFilters(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 17052825700,
+  "duration": 17125581199,
   "status": "passed"
 });
 formatter.match({
   "location": "TestPageStepDefn.textishidden()"
 });
 formatter.result({
-  "duration": 571108400,
+  "duration": 622106801,
   "status": "passed"
 });
-formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\".\\mp4Result\\Scenario-1 Check the test page for adblock functionalityfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
-formatter.embedding("image/png", "embedded45.png");
+formatter.embedding("text/html", "\u003cvideo width\u003d\"100%\" height\u003d\"500\" controls\u003e\u003csource src\u003d\"C:\\Users\\alyao\\automation\\E2E_QA_automation\\build\\reports\\cucumber\\mp4Result\\Scenario-1 Check the test page for adblock functionalityfirefox20200226.mp4\" type\u003d\"video/mp4\"\u003eYour browser does not support the video tag.\u003c/video\u003e");
+formatter.embedding("image/png", "embedded43.png");
 formatter.after({
-  "duration": 4567031900,
+  "duration": 4639814000,
   "status": "passed"
 });
 });
